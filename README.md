@@ -3,13 +3,13 @@
     </h1>
    
   I worked in companies that had app-centric businesses.
-  This developed my interest in knowing more about android apps and I got curious about app development.
+  This developed my interest in knowing more about android apps and I got curious about mobile app development.
   So, I switched to software development and started my journey towards 𝐚𝐧𝐝𝐫𝐨𝐢𝐝 𝐚𝐩𝐩 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 📱
   
-  I'm currently exploring mobile development in 𝐉𝐚𝐯𝐚 and 𝐊𝐨𝐭𝐥𝐢𝐧.
+  I'm currently exploring mobile development in Java, Kotlin and Jetpack Compose 👩🏻‍💻
   Effective communication skills, problem-solving and team collaboration are some of my soft skills 💬
     
-  💻 I’m currently working on android apps using java and kotlin \
+  💻 Working on android apps using java and kotlin \
   📚 I’m learning full stack android development \
   🤔 I’m looking for a full-time employee opportunity \
   💬 Ask me about android development \
