@@ -21,8 +21,9 @@
 <h2> </h2>
 
 ### 🛠 &nbsp; Tech Stack
-  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=F89820)&nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=766DB2)&nbsp;\
+  ![Java](https://img.shields.io/badge/-Java-05122A)&nbsp;
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A)&nbsp;
+  ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-05122A)&nbsp;\
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
