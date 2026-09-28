@@ -9,7 +9,7 @@
   I'm currently exploring mobile development in Java, Kotlin and Jetpack Compose 👩🏻‍💻
   Effective communication skills, problem-solving and team collaboration are some of my soft skills 💬
     
-  💻 Working on android apps using java and kotlin \
+  💻 Working on android apps using java, kotlin, jetpack compose \
   📚 I’m learning full stack android development \
   🤔 I’m looking for a full-time employee opportunity \
   💬 Ask me about android development \
